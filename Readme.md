@@ -1,4 +1,4 @@
-steps (client & server)
+-- Steps (client & server)
 
 1. npm init -y 
 2. npm i ws --save (instalar libreria ws)
